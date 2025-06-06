@@ -38,6 +38,10 @@ const BookingForm = () => {
               <SelectItem value="svo">Шереметьево (SVO)</SelectItem>
               <SelectItem value="dme">Домодедово (DME)</SelectItem>
               <SelectItem value="vko">Внуково (VKO)</SelectItem>
+              <SelectItem value="kja">Емельяново (KJA)</SelectItem>
+              <SelectItem value="kja-cargo">
+                Грузовой терминал Емельяново
+              </SelectItem>
             </SelectContent>
           </Select>
         </div>

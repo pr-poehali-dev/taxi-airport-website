@@ -8,11 +8,11 @@ const Hero = () => {
         <div className="grid md:grid-cols-2 gap-12 items-center">
           <div>
             <h1 className="text-5xl font-bold mb-6 font-montserrat">
-              Надёжное такси в аэропорт
+              Надёжное такси в аэропорт Красноярска
             </h1>
             <p className="text-xl mb-8 text-sky-100">
-              Комфортные трансферы по фиксированной цене. Встретим в аэропорту и
-              доставим точно в срок.
+              Комфортные трансферы до аэропорта Емельяново по фиксированной
+              цене. Встретим в аэропорту и доставим точно в срок.
             </p>
             <div className="flex flex-col sm:flex-row gap-4">
               <Button

@@ -41,7 +41,7 @@ const Contact = () => {
                   <Icon name="MapPin" size={20} />
                 </div>
                 <div>
-                  <div className="font-semibold">Москва и область</div>
+                  <div className="font-semibold">Красноярск и область</div>
                   <div className="text-gray-400">Зона покрытия</div>
                 </div>
               </div>
