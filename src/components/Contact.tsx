@@ -21,7 +21,7 @@ const Contact = () => {
                   <Icon name="Phone" size={20} />
                 </div>
                 <div>
-                  <div className="font-semibold">+7 (495) 123-45-67</div>
+                  <div className="font-semibold">+7 (913) 512-51-48</div>
                   <div className="text-gray-400">Круглосуточно</div>
                 </div>
               </div>
